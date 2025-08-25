@@ -11,7 +11,7 @@ I bring with me a mindset of constant learning, personal discipline (structured 
 
 ## 🌐 Socials:
 
-[![LinkedIn Learning](https://custom-icon-badges.demolab.com/badge/LinkedIn%20-0A66C2?logo=linkedin-white&logoColor=fff)](https://br.linkedin.com/in/rafael-reis-b866052a6) 
+[![LinkedIn Learning](https://custom-icon-badges.demolab.com/badge/LinkedIn%20-0A66C2?logo=linkedin-white&logoColor=fff)](https://br.linkedin.com/in/rafael-reis-r2d2) 
 [![Trailhead](https://custom-icon-badges.demolab.com/badge/Trailhead-00A1E0?logo=salesforce&logoColor=fff)](https://www.salesforce.com/trailblazer/rafael-reis)
 
 
