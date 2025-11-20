@@ -6,9 +6,9 @@ Certificado como Salesforce AI Associate, meu aprendizado é constante, pratican
 
 🔹 Almejo atuar como Salesforce Admin e Developer, consolidando minha experiência prática em programação, sistemas de CRM e automações colaborando em oportunidades reais.
 
-Trailhead: https://www.salesforce.com/trailblazer/rafael-reis
-Github: https://github.com/RafaelReis29
-Linkedin: https://www.linkedin.com/in/rafael-reis-r2d2
+- Trailhead: https://www.salesforce.com/trailblazer/rafael-reis
+- Github: https://github.com/RafaelReis29
+- Linkedin: https://www.linkedin.com/in/rafael-reis-r2d2
 
 
 # 💻 Tech Skills:
