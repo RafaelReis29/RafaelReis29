@@ -91,7 +91,7 @@ Certified Salesforce Platform Admin, Platform App Builder, and Agentforce Specia
 </p>
 
 <p></p>
-  <i>Early stage — high trajectory</i>
+  <i>Early stage, aiming high</i>
 </p>
 
 <p>
