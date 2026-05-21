@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:7B2CBF&height=180&section=header&text=Rafael+Reis%20%7C%20Systems+Builder&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:7B2CBF&height=180&section=header&text=Rafael+Reis%20%7C%20Salesforce+Developer&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
 <p align="center"><sub style="color:#b0b0c8">Salesforce systems, product-focused automation, integrated delivery.</sub></p>
