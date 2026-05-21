@@ -54,10 +54,6 @@ Certified Salesforce Platform Admin, Platform App Builder, and Agentforce Specia
 <p align="center"><sub style="color:#b0b0c8">Current momentum in code, automation, and product delivery.</sub></p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RafaelReis29&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelReis29&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
