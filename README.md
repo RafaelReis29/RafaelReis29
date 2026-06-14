@@ -1,60 +1,75 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:7B2CBF&height=180&section=header&text=Rafael+Reis%20%7C%20Salesforce+Developer&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070D,45:032D60,100:00A1E0&height=180&section=header&text=Rafael+Reis%20%7C%20Salesforce+Developer&fontSize=30&fontColor=ffffff&animation=fadeIn" width="100%" />
 </p>
 
-<p align="center"><sub style="color:#b0b0c8">Salesforce systems, product-focused automation, integrated delivery.</sub></p>
+<p align="center"><sub style="color:#A9B8D3">Salesforce solutions | Independent technical delivery | Focused on real problems.</sub></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Systems+that+move+process+and+people;Salesforce+automation+with+product+sense;Real+work,+real+delivery;Leverage+at+every+level&center=true&width=520&height=42&color=9442FF">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Technical+delivery+on+demand;Salesforce+solutions+built+right;Clean+code+and+working+automations;Independent+and+reliable+delivery&center=true&width=520&height=42&color=00D5FF">
 </p>
 
 ---
 
 ## About me
 
-Salesforce-focused developer in training, building practical solutions with a strong emphasis on declarative architecture (Flows, data modeling, automation, permissions). I focus on turning business needs into working systems, not just concepts.
+Salesforce Developer working **autonomously and independently**.
 
-Hands-on with Apex, LWC and REST integrations when needed, and supported by a web development background (JavaScript, HTML, CSS, Laravel, Vue). Currently developing real-world style projects, especially around Service Cloud and B2B scenarios.
+I provide ad-hoc development, support, and maintenance services for Salesforce solutions directly to professionals within the ecosystem and specific clients. My focus is on delivering functional and reliable technical solutions in an agile manner, addressing specific needs with high-quality results.
 
-Certified Salesforce Platform Admin, Platform App Builder, and Agentforce Specialist. Actively improving through projects and looking to collaborate on implementations where speed, clarity and usability matter.
+I primarily work with:
+
+* Development in **Apex** and **Lightning Web Components (LWC)**
+* Creation and maintenance of automations using **Flows** and declarative configurations
+* Bug fixes, production troubleshooting, and integration adjustments
+* Service Cloud and business rule implementation
+
+I have a background in web development (JavaScript, HTML, CSS, Laravel, Vue), which helps me build more robust interfaces and integrations when needed.
+
+I am certified as:
+
+* Salesforce Platform Administrator
+* Salesforce Platform App Builder
+* Salesforce Agentforce Specialist
+* Salesforce AI Associate
+* (and aiming for Salesforce Platform Developer I)
+
+Currently available for fixed full-time job opportunities, new one-off services and freelance projects where speed of delivery, technical clarity, and quality matter.
 
 ---
 
 ## Core Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Salesforce%20Flows-5E35B1?style=for-the-badge&logo=salesforce" />
-  <img src="https://img.shields.io/badge/Validation%20Rules-6A1B9A?style=for-the-badge&logo=salesforce" />
-  <img src="https://img.shields.io/badge/Data%20Model%20%26%20Relationships-7B2CBF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Profiles%20%26%20Permission%20Sets-8E44AD?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Salesforce%20Flows-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Validation%20Rules-0B5CAB?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Model%20%26%20Relationships-032D60?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Profiles%20%26%20Permission%20Sets-2B0A75?style=for-the-badge" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Apex-6A1B9A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LWC-5E35B1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Visualforce-512DA8?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SOQL-3949AB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Triggers-1E88E5?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/REST%20API-1976D2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JSON-1565C0?style=for-the-badge&logo=json&logoColor=white" />
-  <img src="https://img.shields.io/badge/OAuth2.0-0D47A1?style=for-the-badge&logo=auth0&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LWC-0B5CAB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Visualforce-032D60?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SOQL-2B0A75?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Triggers-7F4DFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/REST%20API-00D5FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JSON-0B5CAB?style=for-the-badge&logo=json&logoColor=white" />
+  <img src="https://img.shields.io/badge/OAuth2.0-032D60?style=for-the-badge&logo=auth0&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vue.js-41B883?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-C0392B?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-00A1E0?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-0B5CAB?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-032D60?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-2B0A75?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 
 ---
 
-## Activity Signal
-
-<p align="center"><sub style="color:#b0b0c8">Current momentum in code, automation, and product delivery.</sub></p>
+## Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelReis29&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelReis29&bg_color=05070D&color=F5F7FA&line=00A1E0&point=00D5FF&area=true&area_color=032D60&hide_border=true" />
 </p>
 
 ---
@@ -62,15 +77,15 @@ Certified Salesforce Platform Admin, Platform App Builder, and Agentforce Specia
 ## Certifications & Achievements
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Salesforce%20Platform%20Admin-7B2CBF?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Salesforce%20Platform%20App%20Builder-E84393?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Salesforce%20Agentforce%20Specialist-16A085?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Salesforce%20Platform%20Admin-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Salesforce%20Platform%20App%20Builder-0B5CAB?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Salesforce%20Agentforce%20Specialist-032D60?style=for-the-badge&logo=salesforce&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Salesforce%20AI%20Associate-9B59B6?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Agentblazer%20Legend%202026-FF428A?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trailhead%20Double%20Star%20Ranger-2ECC71?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Salesforce%20AI%20Associate-2B0A75?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Agentblazer%20Legend%202026-7F4DFF?style=for-the-badge&logo=salesforce&logoColor=white" />
+  <img src="https://img.shields.io/badge/Trailhead%20Double%20Star%20Ranger-00D5FF?style=for-the-badge&logo=salesforce&logoColor=032D60" />
 </p>
 
 ---
@@ -79,17 +94,17 @@ Certified Salesforce Platform Admin, Platform App Builder, and Agentforce Specia
 
 <p>
   <a href="https://www.linkedin.com/in/rafael-reis-r2d2/">
-    <img src="https://img.shields.io/badge/LinkedIn-1565C0?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0B5CAB?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:rafael.dnreis@gmail.com">
-    <img src="https://img.shields.io/badge/Email-7B2CBF?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-2B0A75?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
-<p></p>
-  <i>Early stage, aiming high</i>
 </p>
 
 <p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2CBF,100:0f0f0f&height=120&section=footer" width="100%" />
+  <i>Get in touch and let me help you!</i>
+</p>
+
+<p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00A1E0,55:032D60,100:05070D&height=120&section=footer" width="100%" />
 </p>
