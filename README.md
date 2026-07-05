@@ -12,7 +12,7 @@
 
 ## About me
 
-Salesforce Developer working **autonomously and independently**.
+Salesforce Developer working **autonomously and independently**, open por full time opportunities and long-term projects.
 
 I provide ad-hoc development, support, and maintenance services for Salesforce solutions directly to professionals within the ecosystem and specific clients. My focus is on delivering functional and reliable technical solutions in an agile manner, addressing specific needs with high-quality results.
 
@@ -21,7 +21,7 @@ I primarily work with:
 * Development in **Apex** and **Lightning Web Components (LWC)**
 * Creation and maintenance of automations using **Flows** and declarative configurations
 * Bug fixes, production troubleshooting, and integration adjustments
-* Service Cloud and business rule implementation
+* Service Cloud, Sales Cloud and business rule implementation
 
 I have a background in web development (JavaScript, HTML, CSS, Laravel, Vue), which helps me build more robust interfaces and integrations when needed.
 
