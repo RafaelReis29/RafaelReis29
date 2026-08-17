@@ -85,7 +85,7 @@ Currently available for fixed full-time job opportunities, new one-off services 
 <p align="center">
   <img src="https://img.shields.io/badge/Salesforce%20AI%20Associate-2B0A75?style=for-the-badge&logo=salesforce&logoColor=white" />
   <img src="https://img.shields.io/badge/Agentblazer%20Legend%202026-7F4DFF?style=for-the-badge&logo=salesforce&logoColor=white" />
-  <img src="https://img.shields.io/badge/Trailhead%20Double%20Star%20Ranger-00D5FF?style=for-the-badge&logo=salesforce&logoColor=032D60" />
+  <img src="https://img.shields.io/badge/Trailhead%20Triple%20Star%20Ranger-00A1E0?style=for-the-badge&logo=salesforce&logoColor=032D60" />
 </p>
 
 ---
