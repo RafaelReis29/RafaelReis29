@@ -5,7 +5,7 @@
 
 ## Sobre mim
 
-Olá! me chamo Rafael e sou desenvolvedor Salesforce! Tenho 19 anos, e estou cursando Sistemas para Internet pelo Senac. Tenho mais de 1 ano de experiência dentro do ecossistema de forma autônoma, avançando com desafios no trailhead, aprendendo com projetos práticos, realizando pequenas implementações para outros devs do mercado e criando meus próprios cases de estudo. 
+Olá! me chamo Rafael e sou desenvolvedor Salesforce. Tenho 19 anos, e estou cursando Sistemas para Internet pelo Senac. Tenho mais de 1 ano de experiência dentro do ecossistema de forma autônoma, avançando com desafios no trailhead, aprendendo com projetos práticos, realizando implementações para outros devs do mercado e criando meus próprios cases de estudo. Você pode entender mais sobre os meus projetos através do meu portfólio em: www.rafaeldnreis.com/cases
 
 ## Competências
 
@@ -15,7 +15,7 @@ Sou capaz de resolver tarefas de diferentes níveis de complexidade, aprendo por
 
 ## Conquistas
 
-Na primeira metade de 2026, me tornei Agentblazer Legend, alcancei o marco de Triple Star Ranger e obtive 3 certificações Salesforce. Atualmente, tenho mais de 15 superbadges, +340 badges, +50 trilhas concluídas e uma sequência de 40 semanas no trailhead (quase 1 ano de aprendizado semanal contínuo). 
+Na primeira metade de 2026, me tornei Agentblazer Legend, alcancei o marco de Triple Star Ranger e obtive 3 certificações Salesforce. Atualmente, tenho mais de 17 superbadges, +350 badges, +50 trilhas concluídas e uma sequência de 50 semanas no trailhead (quase 1 ano de aprendizado semanal contínuo). 
 
 E como o progresso não deve parar, estou me preparando para a certificação Platform Developer 1 e melhorando meu inglês para atingir nível C1 em testes oficiais.
 
@@ -28,19 +28,19 @@ E como o progresso não deve parar, estou me preparando para a certificação Pl
 
 ### Certificações Adicionais
 
-- Voxy High-intermediate Certified - Inglês nível B2: 07/01/2026
+- EF SET English Certified - Inglês nível C2 (74/100): 31/10/2026
 - Scrum Fundamentals Certified: 30/07/2023
 
 
 ## 🌐 Me contate
 
-Estou em busca da primeira oportunidade profissional dentro do ecossistema como Desenvolvedor Salesforce. Quero trabalhar e entregar bons resultados em ambientes reais. 
+Estou em busca da primeira oportunidade profissional dentro do ecossistema como Desenvolvedor Salesforce. Quero entregar bons resultados em ambientes reais e colaborar com o time.
 
 Se você é recrutador, profissional de Salesforce ou apenas um visitante que conhece pessoas do ecossistema, saiba que eu ficarei grato por qualquer forma de suporte, seja recomendando vagas abertas ou profissionais que possam conversar sobre oportunidades.
 
 - Telefone: (11) 97627-2922
 - Email: rafael.dnreis@gmail.com
-- Trailhead: https://www.salesforce.com/trailblazer/rafael-reis
+- Trailhead: https://www.salesforce.com/trailblazer/rafaeldnreis
 - Linkedin: https://www.linkedin.com/in/rafaeldnreis/
 
 
