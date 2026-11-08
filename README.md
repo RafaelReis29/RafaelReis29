@@ -15,16 +15,15 @@ Sou capaz de resolver tarefas de diferentes níveis de complexidade, aprendo por
 
 ## Conquistas
 
-Na primeira metade de 2026, me tornei Agentblazer Legend, alcancei o marco de Triple Star Ranger e obtive 3 certificações Salesforce. Atualmente, tenho mais de 17 superbadges, +350 badges, +50 trilhas concluídas e uma sequência de 50 semanas no trailhead (quase 1 ano de aprendizado semanal contínuo). 
-
-E como o progresso não deve parar, estou me preparando para a certificação Platform Developer 1 e melhorando meu inglês para atingir nível C1 em testes oficiais.
+Na primeira metade de 2026, me tornei Agentblazer Legend, alcancei o marco de Triple Star Ranger e obtive 3 certificações Salesforce. Atualmente, tenho mais de 17 superbadges, +350 badges, +50 trilhas concluídas e uma sequência de 51 semanas no trailhead (quase 1 ano de aprendizado semanal contínuo). 
 
 ### Certificações Salesforce
 
-* Salesforce Platform Administrator: 19/02/2026
-* Salesforce Platform App Builder: 08/02/2026
-* Salesforce Agentforce Specialist: 25/01/2026
-* Salesforce AI Associate: 16/01/2025
+- Salesforce Platform Developer: 08/11/2026
+- Salesforce Platform Administrator: 19/02/2026
+- Salesforce Platform App Builder: 08/02/2026
+- Salesforce Agentforce Specialist: 25/01/2026
+- Salesforce AI Associate: 16/01/2025
 
 ### Certificações Adicionais
 
